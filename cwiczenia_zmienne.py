@@ -34,5 +34,7 @@ def pomnoz(a, b):
     #return — zwraca 8 do zmiennej x
     return a * b
 
+#zmienna x korzysta z funkcji pomnoz
 x = pomnoz(2, 4)
+#ostatni print — wyświetla wartość zmiennej x
 print("x to:", x)

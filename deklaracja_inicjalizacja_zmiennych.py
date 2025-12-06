@@ -42,3 +42,4 @@ tekst = str(liczba)
 print(tekst)        # "123"
 print(type(tekst))  # <class 'str'>
 
+ma_kota= True
