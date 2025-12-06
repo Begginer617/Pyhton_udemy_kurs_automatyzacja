@@ -21,3 +21,6 @@ nazwisko="rosoli"
 wiek= 35
 print(imie, nazwisko, wiek)
 print("Mam na imie " + imie+ " " + "na nazwisko "+nazwisko + " i mam"+" "+ str(wiek)+" lat")
+
+wiek2= 100
+print(f"{imie}, {nazwisko}, {wiek2});")
