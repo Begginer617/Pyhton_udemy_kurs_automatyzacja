@@ -24,3 +24,5 @@ print("Mam na imie " + imie+ " " + "na nazwisko "+nazwisko + " i mam"+" "+ str(w
 
 wiek2= 100
 print(f"{imie}, {nazwisko}, {wiek2});")
+
+
