@@ -11,6 +11,13 @@ print("pythonie")
 kurs ="pythonie"
 print("nauka programowanie w " + kurs)
 
-soczek = "1.55"
+soczek = 1.55
 soczek =float(soczek)
 print("soczek kosztuje " + str(soczek) + " zł")
+
+
+imie="kasia"
+nazwisko="rosoli"
+wiek= 35
+print(imie, nazwisko, wiek)
+print("Mam na imie " + imie+ " " + "na nazwisko "+nazwisko + " i mam"+" "+ str(wiek)+" lat")
