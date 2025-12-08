@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PyCharmMiscProject.iml" filepath="$PROJECT_DIR$/PyCharmMiscProject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject07_12_25.iml" filepath="$PROJECT_DIR$/.idea/PythonProject07_12_25.iml" />
+>>>>>>> 22181ac (1 komit)
     </modules>
   </component>
 </project>
